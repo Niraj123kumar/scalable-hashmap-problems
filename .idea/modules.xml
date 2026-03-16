@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/FlashSaleInventoryManager/FlashSaleInventoryManager.iml" filepath="$PROJECT_DIR$/FlashSaleInventoryManager/FlashSaleInventoryManager.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/scalable-hashmap-problems.iml" filepath="$PROJECT_DIR$/.idea/scalable-hashmap-problems.iml" />
       <module fileurl="file://$PROJECT_DIR$/username-availability-checker/username-availability-checker.iml" filepath="$PROJECT_DIR$/username-availability-checker/username-availability-checker.iml" />
     </modules>
