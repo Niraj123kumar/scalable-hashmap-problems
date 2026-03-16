@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FlashSaleInventoryManager/DNSEntry/DNSEntry.iml" filepath="$PROJECT_DIR$/FlashSaleInventoryManager/DNSEntry/DNSEntry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/DNSEntry/DNSEntry.iml" filepath="$PROJECT_DIR$/untitled/DNSEntry/DNSEntry.iml" />
       <module fileurl="file://$PROJECT_DIR$/FlashSaleInventoryManager/FlashSaleInventoryManager.iml" filepath="$PROJECT_DIR$/FlashSaleInventoryManager/FlashSaleInventoryManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlagiarismDetector/PageViewEvent/PageViewEvent.iml" filepath="$PROJECT_DIR$/PlagiarismDetector/PageViewEvent/PageViewEvent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlagiarismDetector/PlagiarismDetector.iml" filepath="$PROJECT_DIR$/PlagiarismDetector/PlagiarismDetector.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/scalable-hashmap-problems.iml" filepath="$PROJECT_DIR$/.idea/scalable-hashmap-problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlagiarismDetector/PageViewEvent/untitled1/untitled1.iml" filepath="$PROJECT_DIR$/PlagiarismDetector/PageViewEvent/untitled1/untitled1.iml" />
       <module fileurl="file://$PROJECT_DIR$/username-availability-checker/username-availability-checker.iml" filepath="$PROJECT_DIR$/username-availability-checker/username-availability-checker.iml" />
     </modules>
   </component>
